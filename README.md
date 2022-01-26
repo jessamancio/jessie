@@ -1,2 +1,4 @@
 # jessie
-Comecinho
+git init
+
+
